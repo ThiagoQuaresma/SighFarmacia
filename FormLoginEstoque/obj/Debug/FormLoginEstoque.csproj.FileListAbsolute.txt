@@ -1,0 +1,12 @@
+c:\users\quaresma\source\repos\FormLoginEstoque\FormLoginEstoque\bin\Debug\FormLoginEstoque.exe.config
+c:\users\quaresma\source\repos\FormLoginEstoque\FormLoginEstoque\bin\Debug\FormLoginEstoque.exe
+c:\users\quaresma\source\repos\FormLoginEstoque\FormLoginEstoque\bin\Debug\FormLoginEstoque.pdb
+c:\users\quaresma\source\repos\FormLoginEstoque\FormLoginEstoque\bin\Debug\Bunifu_UI_v1.4.dll
+c:\users\quaresma\source\repos\FormLoginEstoque\FormLoginEstoque\obj\Debug\FormLoginEstoque.csprojResolveAssemblyReference.cache
+c:\users\quaresma\source\repos\FormLoginEstoque\FormLoginEstoque\obj\Debug\FormLoginEstoque.Form1.resources
+c:\users\quaresma\source\repos\FormLoginEstoque\FormLoginEstoque\obj\Debug\FormLoginEstoque.Properties.Resources.resources
+c:\users\quaresma\source\repos\FormLoginEstoque\FormLoginEstoque\obj\Debug\FormLoginEstoque.csproj.GenerateResource.cache
+c:\users\quaresma\source\repos\FormLoginEstoque\FormLoginEstoque\obj\Debug\FormLoginEstoque.csproj.CoreCompileInputs.cache
+c:\users\quaresma\source\repos\FormLoginEstoque\FormLoginEstoque\obj\Debug\FormLoginEstoque.csproj.CopyComplete
+c:\users\quaresma\source\repos\FormLoginEstoque\FormLoginEstoque\obj\Debug\FormLoginEstoque.exe
+c:\users\quaresma\source\repos\FormLoginEstoque\FormLoginEstoque\obj\Debug\FormLoginEstoque.pdb

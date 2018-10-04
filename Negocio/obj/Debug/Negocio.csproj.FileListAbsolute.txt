@@ -1,0 +1,5 @@
+E:\C#\FormLoginEstoque\Negocio\bin\Debug\Negocio.dll
+E:\C#\FormLoginEstoque\Negocio\bin\Debug\Negocio.pdb
+E:\C#\FormLoginEstoque\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\C#\FormLoginEstoque\Negocio\obj\Debug\Negocio.dll
+E:\C#\FormLoginEstoque\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,2 @@
+E:\C#\FormLoginEstoque\MedicamentoDAO\obj\Debug\Dados.csprojAssemblyReference.cache
+E:\C#\FormLoginEstoque\MedicamentoDAO\obj\Debug\Dados.csproj.CoreCompileInputs.cache

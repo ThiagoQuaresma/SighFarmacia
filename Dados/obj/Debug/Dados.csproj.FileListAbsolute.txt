@@ -1,0 +1,8 @@
+E:\C#\FormLoginEstoque\Dados\bin\Debug\Dados.dll.config
+E:\C#\FormLoginEstoque\Dados\bin\Debug\Dados.dll
+E:\C#\FormLoginEstoque\Dados\bin\Debug\Dados.pdb
+E:\C#\FormLoginEstoque\Dados\bin\Debug\System.Data.SqlServerCe.dll
+E:\C#\FormLoginEstoque\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+E:\C#\FormLoginEstoque\Dados\obj\Debug\Dados.csproj.CopyComplete
+E:\C#\FormLoginEstoque\Dados\obj\Debug\Dados.dll
+E:\C#\FormLoginEstoque\Dados\obj\Debug\Dados.pdb
